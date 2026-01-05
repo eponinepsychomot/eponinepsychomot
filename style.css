@@ -171,4 +171,22 @@ footer {
   font-size: 1.9em;
   letter-spacing: 0.5px;
 }
+header .logo {
+  width: 300px;
+  height: auto;
+
+  background-color: white;          /* fond propre derrière le logo */
+  padding: 6px;                     /* espace entre logo et contour */
+
+  border: 1.5px solid #333;         /* contour discret */
+  border-radius: 8px;               /* coins légèrement arrondis */
+
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15); /* ombre légère */
+
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+header .logo:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
 
