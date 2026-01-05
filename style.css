@@ -55,39 +55,40 @@ section:hover {
   box-shadow: 0 8px 15px rgba(0,0,0,0.15);
 }
 
-/* ---------- Titres par section ---------- */
+/* ---------- Titres par section (pastel) ---------- */
 
-/* Qui suis-je ? → ORANGE */
+/* Qui suis-je ? → ORANGE PASTEL */
 h2.qui {
-  color: #E58B2A;
+  color: #E6A36F;
 }
 
-/* La psychomotricité → ROSE */
+/* La psychomotricité → ROSE PASTEL */
 h2.psy {
-  color: #D86C9A;
+  color: #DFA3BE;
 }
 
-/* Prestations proposées → VIOLET */
+/* Prestations proposées → VIOLET PASTEL */
 h2.prestations {
-  color: #7A5CA7;
+  color: #B6A5D8;
 }
 
-/* Secteur d’intervention → BLEU EAU */
+/* Secteur d’intervention → BLEU PASTEL */
 h2.secteur {
-  color: #4A9EB8;
+  color: #9FC8D9;
 }
 
-/* Contact → VERT */
+/* Contact → VERT PASTEL */
 h2.contact {
-  color: #5FAE7B;
+  color: #9FCBB3;
 }
 
-/* Icônes Font Awesome dans les titres */
+/* Icônes dans les titres */
 h2 i {
   margin-right: 10px;
   font-size: 1.2em;
   vertical-align: middle;
 }
+
 
 /* ---------- Texte ---------- */
 .texte-justifie {
